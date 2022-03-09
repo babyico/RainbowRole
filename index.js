@@ -18,7 +18,7 @@ bot.on("ready", async () => {
         role.edit({ color: 'RANDOM' }).catch(err => console.log(`facing error during changing the role`));
     }, interval)
     //////////SETING BOT ACTIVITY
-    bot.user.setPresence({ status: 'dnd', activity: { name: 'ICONICAL IS DA BEST', type: 'LISTENING', } })
+    bot.user.setPresence({ status: 'dnd', activity: { name: 'Iconical is da best', type: 'LISTENING', } })
 })
 /////////////////////////////////////////LOGING IN THE BOT///////////////////////////
 bot.login(bottoken)
