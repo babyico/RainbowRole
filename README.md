@@ -1,3 +1,3 @@
-# RainbowRole
+# RainbowRole 🌈
 
 Is a very simple and basic bot without any commands or anything just run it and it will make your chosen role become colorful. Like a Rainbow Wave...
