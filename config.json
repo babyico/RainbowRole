@@ -1,6 +1,6 @@
 {
-    "bottoken": "",
-    "serverID": "484502176245350410",
-    "roleID": "940419457845723206",
+    "bottoken": "YOUR BOT TOKEN",
+    "serverID": "YOUR SERVER ID",
+    "roleID": "THE ROLE ID",
     "interval": "100"
 }
